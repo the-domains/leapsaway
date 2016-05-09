@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[leapsaway]]></title>
+        <description><![CDATA[leapsaway]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 04:40:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Are you bored of the usual monotonous product that the sellers keep pushing upto you.</p>]]></description>
+            <link>undefinedare-you-bored-of-the-usual-monotonous-product-that-the-selle/index.html</link>
+            <guid isPermaLink="false">9b874779-dd7c-4965-b2a0-63291a5fc4a8</guid>
+            <pubDate>Mon, 09 May 2016 04:40:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
