@@ -2,6 +2,7 @@ name: leapsaway
 favicon: null
 layout_spectrum: 0.08377830171957612
 typography_spectrum: 0.5405887786764652
+title: Leapsaway
 cta:
   domain: null
   bucket: null
