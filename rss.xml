@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[leapsaway]]></title>
         <description><![CDATA[leapsaway]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leapsaway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 04:40:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 04:42:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leapsaway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Are you bored of the usual monotonous product that the sellers keep pushing upto you.</p>]]></description>
-            <link>undefinedare-you-bored-of-the-usual-monotonous-product-that-the-selle/index.html</link>
+            <link>https://thegrid.ai/leapsaway/are-you-bored-of-the-usual-monotonous-product-that-the-selle/index.html</link>
             <guid isPermaLink="false">9b874779-dd7c-4965-b2a0-63291a5fc4a8</guid>
-            <pubDate>Mon, 09 May 2016 04:40:14 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 04:42:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
